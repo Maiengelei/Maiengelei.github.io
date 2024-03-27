@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Git 代理配置
 parent: Git
 ---
