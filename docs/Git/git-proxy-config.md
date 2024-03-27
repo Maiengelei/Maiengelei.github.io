@@ -4,6 +4,8 @@ title: Git 代理配置
 parent: Git
 ---
 
+# Git 代理配置
+
 在克隆仓库的速度慢到爆炸的时候，可以给Git配置代理来尝试抢救一下
 
 ```shell
