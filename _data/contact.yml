@@ -20,11 +20,11 @@
   url:  'https://www.Google.com'
 
 - type: Game Programming Patterns
-  icon: 'fa-solid fa-book'
+  icon: 'fa-solid fa-blog'
   url:  'https://gpp.tkchu.me'
 
 - type: 虚幻引擎5文档
-  icon: 'fa-brands fa-google'
+  icon: 'fa-solid fa-book'
   url:  'https://dev.epicgames.com/documentation'
 
 # - type: linkedin
