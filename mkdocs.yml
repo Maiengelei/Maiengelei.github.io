@@ -1,4 +1,28 @@
 site_name: Void Sword
 
+site_url: https://void-sword.com
+
+nav:
+  - Home: index.md
+
 theme:
   name: material
+  palette:
+    language: zh
+    scheme: slate
+    primary: deep orange
+  features:                       # 特性
+    - navigation.instant            # 即时加载
+    - navigation.instant.progress   # 进度指示器 依赖即时加载
+    # - navigation.prune              # 导航修剪
+    - toc.follow                    # 导航跟踪
+    # - navigation.tabs               # 导航选项卡
+    # - toc.integrate                 # 导航集成
+    - navigation.top                # 返回顶部按钮
+    - search.highlight              # 搜索高亮显示
+  plugins:                        # 插件
+    - search:                       # 搜索
+        lang:                         # 语种
+          - en
+          - zh
+    - tags                          # Tags
