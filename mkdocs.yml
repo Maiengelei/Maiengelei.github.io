@@ -4,6 +4,7 @@ site_url: https://void-sword.com
 
 nav:
   - Home: index.md
+  - About: about.md
 
 theme:
   name: material
